@@ -9,5 +9,10 @@ week one
 1 excersice to predict the house price based on number of bades
 
 week two
+its all about Fashion MNIST
+week 3
+its all about CNN
+week 4
+its all about image generator
 
 
